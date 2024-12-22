@@ -1,2 +1,3 @@
 # ESX-to-QBCore
-Most of the basic ESX to QBCore functions server or client sided. 
+ESX to Qbcore 基本文黨
+
